@@ -1,4 +1,4 @@
-Train Database Management System 🚆
+TRAIN DATABASE MANAGEMENT🚆
 
 This project is a C-based Train Database Management System that allows users to manage train information and perform ticket bookings with a simple terminal interface.
 
