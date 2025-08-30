@@ -39,8 +39,6 @@ Add Train → Enter train details and save them.
 
 View Trains → List all available trains.
 
-Book Ticket → Provide passenger info and generate ticket with ASCII QR.
-
 Exit → Close the program.
 
 📂 File Structure
