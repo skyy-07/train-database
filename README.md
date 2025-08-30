@@ -10,8 +10,6 @@ View available trains.
 
 Book tickets with passenger details.
 
-Display booking details with a generated ASCII QR Code.
-
 Simple text-based menu system for easy navigation.
 
 🛠️ Technologies Used
